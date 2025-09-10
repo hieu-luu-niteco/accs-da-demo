@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/hieu-luu-niteco/accs-da-demo/
+    url: https://content.da.live/niteco-baldur/accs-da-demo/
     type: markup
 
 folders:
